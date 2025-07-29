@@ -14,13 +14,15 @@ moodify/
 ---
 
 💡 Features
-Choose your mood (Happy, Sad, Energetic, Relaxed) with one click
+-Choose your mood (Happy, Sad, Energetic, Relaxed) with one click
 
-Instantly see a customized music recommendation
+-Instantly see a customized music recommendation
 
 Clean and responsive layout using Bootstrap
 
 Simple to use, no sign-up or installation needed
+
+---
 
 🛠️ Technologies Used
 HTML5

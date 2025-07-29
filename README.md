@@ -18,32 +18,32 @@ moodify/
 
 -Instantly see a customized music recommendation
 
-Clean and responsive layout using Bootstrap
+-Clean and responsive layout using Bootstrap
 
-Simple to use, no sign-up or installation needed
+-Simple to use, no sign-up or installation needed
 
 ---
 
 🛠️ Technologies Used
-HTML5
+-HTML5
 
-CSS3 (with Bootstrap 5 via CDN)
+-CSS3 (with Bootstrap 5 via CDN)
 
-JavaScript (for dynamic suggestions)
+-JavaScript (for dynamic suggestions)
 
 ---
 
 🚀 How to Run
-Download or clone the repository/files.
+-Download or clone the repository/files.
 
-Open index.html in any web browser (Chrome, Firefox, Edge, etc.).
+-Open index.html in any web browser (Chrome, Firefox, Edge, etc.).
 
-Select your mood by clicking one of the buttons—your music recommendation will appear instantly.
+-Select your mood by clicking one of the buttons—your music recommendation will appear instantly.
 
 ---
 
 📦 Project Files Overview
-File	Description
+-File	Description
 index.html	The main webpage with buttons for each mood
 style.css	Custom CSS for colors and layout
 script.js	Handles mood selection and song suggestions

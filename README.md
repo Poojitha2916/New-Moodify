@@ -11,6 +11,8 @@ moodify/
 ├── style.css        # Custom styles for design
 ├── script.js        # JavaScript for recommendation logic
 
+---
+
 💡 Features
 Choose your mood (Happy, Sad, Energetic, Relaxed) with one click
 
@@ -27,12 +29,16 @@ CSS3 (with Bootstrap 5 via CDN)
 
 JavaScript (for dynamic suggestions)
 
+---
+
 🚀 How to Run
 Download or clone the repository/files.
 
 Open index.html in any web browser (Chrome, Firefox, Edge, etc.).
 
 Select your mood by clicking one of the buttons—your music recommendation will appear instantly.
+
+---
 
 📦 Project Files Overview
 File	Description

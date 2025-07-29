@@ -3,6 +3,8 @@
 🎧 Moodify – Mood-Based Music Recommendation
 Moodify is a simple web-based application that lets users choose their current mood and instantly receive a music recommendation to match that mood. The project highlights clean, responsive design and easy interactivity, making it fun and accessible for users of all ages.
 
+---
+
 📁 Project Structure
 moodify/
 ├── index.html       # Main web page

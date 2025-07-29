@@ -48,6 +48,7 @@ moodify/
 ---
 
 📦 Project Files Overview
+
 -File	Description
 index.html	The main webpage with buttons for each mood
 style.css	Custom CSS for colors and layout
